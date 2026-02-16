@@ -1,0 +1,71 @@
+Perfect, Akshay — let’s stretch this roadmap into a 5‑month (≈150 days) plan with daily topics so you can steadily progress from beginner to advanced DSA in C++. I’ll break it into phases and assign exact days.
+
+📅 5-Month DSA Roadmap in C++
+🔹 Month 1: Foundations (Days 1–30)
+Goal: Build strong C++ basics + problem-solving mindset.
+- Day 1–2: C++ syntax, input/output, variables, loops
+- Day 3–4: Functions, recursion basics
+- Day 5–6: Arrays (1D) – traversal, insertion, deletion
+- Day 7–8: Strings – manipulation, palindrome, reverse
+- Day 9–10: Searching (Linear, Binary)
+- Day 11–12: Sorting (Bubble, Selection, Insertion)
+- Day 13–14: Practice problems (patterns + arrays)
+- Day 15: Time & Space Complexity (Big-O)
+- Day 16–17: Recursion deeper (factorial, Fibonacci, backtracking intro)
+- Day 18–19: 2D Arrays (matrix problems)
+- Day 20: STL basics (vector, pair, set, map)
+- Day 21–22: Merge Sort, Quick Sort
+- Day 23–24: Practice problems (sorting + recursion)
+- Day 25: Mini-project (matrix operations)
+- Day 26–27: Bit Manipulation basics
+- Day 28: Modular arithmetic, GCD, LCM
+- Day 29: Prefix sums, sliding window intro
+- Day 30: Mock test + revision
+
+🔹 Month 2: Core DSA I (Days 31–60)
+Goal: Learn linked lists, stacks, queues.
+- Day 31–37: Linked Lists (singly, doubly, circular) + problems (reverse, detect cycle, merge lists)
+- Day 38–44: Stacks & Queues (array, linked list, STL) + problems (balanced parentheses, next greater element)
+- Day 45–51: Trees (binary trees, traversals DFS/BFS, height, diameter, LCA)
+- Day 52–58: Binary Search Trees (insert, delete, search, validate BST, kth smallest element)
+- Day 59–60: Revision + mock test
+
+🔹 Month 3: Core DSA II (Days 61–90)
+Goal: Strengthen tree/graph concepts.
+- Day 61–67: Heaps & Priority Queues (min/max heap, heap sort, kth largest, merge k arrays)
+- Day 68–74: Graphs (adjacency list/matrix, BFS, DFS, shortest path: Dijkstra, Bellman-Ford, cycle detection)
+- Day 75–81: Graph problems (connected components, bipartite check, topological sort)
+- Day 82–88: Advanced Trees (AVL, Segment Trees basics)
+- Day 89–90: Revision + mock test
+
+🔹 Month 4: Advanced DSA (Days 91–120)
+Goal: Master DP + advanced structures.
+- Day 91–97: Dynamic Programming basics (Fibonacci, knapsack, LIS, matrix path problems)
+- Day 98–104: DP advanced (coin change, longest common subsequence, matrix chain multiplication)
+- Day 105–111: Tries (insert, search, prefix problems)
+- Day 112–116: Disjoint Set Union (union-find, Kruskal’s MST)
+- Day 117–120: Revision + mock test
+
+🔹 Month 5: Problem-Solving & Patterns (Days 121–150)
+Goal: Apply DSA in competitive programming style.
+- Day 121–124: Sliding window problems (max subarray, longest substring)
+- Day 125–128: Two pointers problems (pair sum, remove duplicates)
+- Day 129–132: Binary search on answer (min pages allocation, aggressive cows)
+- Day 133–136: Greedy problems (activity selection, minimum coins)
+- Day 137–141: Backtracking problems (N-Queens, Sudoku solver, subsets)
+- Day 142–146: Mixed problem-solving (LeetCode/GFG medium-hard problems)
+- Day 147–149: Mock contests (simulate 2–3 hour problem sets)
+- Day 150: Final revision + capstone test
+
+🕒 Daily Routine (with college 11–6 PM)
+- Morning (8–10 AM): Learn new topic (theory + 1–2 problems)
+- Evening (7–9 PM): Practice problems + revise previous topic
+- Weekend: Mock test + revision
+
+🎯 Platforms for Practice
+- LeetCode → structured problems (easy → medium → hard)
+- GeeksforGeeks → topic-wise practice
+- Codeforces → competitive problem-solving
+
+👉 This plan gives you 150 days (≈5 months) with daily topics. By the end, you’ll have covered all major DSA topics in C++ and practiced problem-solving patterns.
+Would you like me to expand this into a printable calendar (Day 1 → Day 150 with exact problems listed from LeetCode/GFG) so you can tick off each day like a checklist?
